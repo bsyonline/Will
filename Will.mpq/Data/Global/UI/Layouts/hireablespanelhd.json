@@ -1,0 +1,62 @@
+{
+    "type": "HireablesPanel", "name": "HireablesPanel",
+    "fields": {
+        "priority": 100,//显示优先级
+        "anchor": { "x": 0.5, "y": 0 },//与快捷技能栏使用同一条屏幕中线
+        "rect": { "x": -7954, "y": 250, "scale": 0.9 },//将本面板的队友头像移出画面
+        "nextIconOffset": { "y": 200 },//第二图标偏移量默认204，竖着多个头像之间的间距  添加X坐标可错位显示
+        "summonsUseSecondSet": true,//使用额外参数
+        "nameAlternationSecondSetY": 0,//名称交替第二组Y
+        "secondSetPosition": { "x": 8000, "y": 1470 },//-7954 + 8000 × 0.9 = -754，对齐首个快捷技能
+        "nextIconOffsetSecondSet": { "x": 130 },//第二图标偏移量，多个头像之间的间距  召唤物头像 //默认"$SecondSetIconOffset",
+        "tooltipOffset": { "x": 160, "y": 115 },//工具提示偏移量
+        "baseTransparency": 1,//基础透明度
+       "mercenaryIconTooltipMouseoverDelay": 30000000,//鼠标悬停延迟X帧后可以右键打开佣兵窗口
+        "allyPlayerFontColor": "$FontColorGold",
+        "allyNPCFontColor": "$FontColorVeryLightGray",
+//        "testPartyIcons": true
+    },
+    "children": [
+        {
+            "type": "AbstractImageWidget", "name": "Template",
+            "children": [
+                {
+                    "type": "TextBoxWidget", "name": "Name",
+                    "fields": {
+                        "anchor": { "x": 0, "y": 0.98 },//名字锚点
+                        "style": {
+                            "fontFace": "Formal",
+                            "fontColor": "$FontColorGold",
+                            "pointSize": "$SmallFontSize",
+                            "spacing": "$MinimumSpacing",
+                            "alignment": { "h": "left" },//对齐
+                        }
+                    }
+                },
+
+
+
+
+                {
+                    "type": "TextBoxWidget", "name": "Counter",//计数器
+                    "fields": {
+                        "rect": { "x": 12, "y": 70 },
+                        "style": {
+                            "pointSize": "$MediumFontSize",
+                            "spacing": "$MinimumSpacing",
+                        },
+                    }
+                },
+
+                {
+                    "type": "HealthBarWidget", "name": "Health",
+                    "fields": {
+                        "rect": { "y": -22, "width": 120, "height": 20 },
+                        "transparency": 1,//透明度
+                        "backgroundTransparency": 0.95,//背景透明度
+                    }
+                },
+            ]
+        },
+    ]
+}
