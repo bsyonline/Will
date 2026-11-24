@@ -4094,7 +4094,7 @@
     "jaJP": "ファイアゴーレム",
     "ptBR": "Golem de Fogo",
     "ruRU": "Огненный голем",
-    "zhCN": "火焰傀儡"
+    "zhCN": "火焰石魔"
   },
   {
     "id": 3123,
@@ -4111,7 +4111,7 @@
     "jaJP": "アイアンゴーレム",
     "ptBR": "Golem de Ferro",
     "ruRU": "Железный голем",
-    "zhCN": "钢铁傀儡"
+    "zhCN": "钢铁石魔"
   },
   {
     "id": 3124,
@@ -4128,7 +4128,7 @@
     "jaJP": "ブラッドゴーレム",
     "ptBR": "Golem de Sangue",
     "ruRU": "Кровяной голем",
-    "zhCN": "鲜血傀儡"
+    "zhCN": "鲜血石魔"
   },
   {
     "id": 3125,
@@ -4145,7 +4145,7 @@
     "jaJP": "クレイゴーレム",
     "ptBR": "Golem de Barro",
     "ruRU": "Глиняный голем",
-    "zhCN": "黏土傀儡"
+    "zhCN": "黏土石魔"
   },
   {
     "id": 3179,
@@ -4757,7 +4757,7 @@
     "jaJP": "ボルトの本数: %d",
     "ptBR": "%d setas",
     "ruRU": "Снарядов: %d",
-    "zhCN": "%d枚电荷弹"
+    "zhCN": "%d枚电能弹"
   },
   {
     "id": 4280,
@@ -4774,7 +4774,7 @@
     "jaJP": "牙の本数: %d",
     "ptBR": "%d dentes",
     "ruRU": "Клыков: %d",
-    "zhCN": "%d个骨牙"
+    "zhCN": "%d个剔骨之牙"
   },
   {
     "id": 4281,
@@ -5046,7 +5046,7 @@
     "jaJP": "ゴーレムのレベル: ",
     "ptBR": "Nível do golem: ",
     "ruRU": "Уровень голема: ",
-    "zhCN": "傀儡等级:"
+    "zhCN": "石魔等级:"
   },
   {
     "id": 4300,
@@ -5426,7 +5426,7 @@
     "id": 4323,
     "Key": "StrSkill69",
     "enUS": "Stamina Recovery Rate: %+d%%",
-    "zhTW": "精力恢復率：%+d%%",
+    "zhTW": "活力恢復率：%+d%%",
     "deDE": "Erholungsrate der Ausdauer: %+d%%",
     "esES": "Índice de recuperación de aguante: %+d%%",
     "frFR": "Taux de récupération d’endurance : %+d%%",
@@ -5460,7 +5460,7 @@
     "id": 4325,
     "Key": "StrSkill71",
     "enUS": "Stamina Bonus: ",
-    "zhTW": "精力加成：",
+    "zhTW": "活力加成：",
     "deDE": "Ausdauerbonus: ",
     "esES": "Bonus de aguante:",
     "frFR": "Bonus d’endurance : ",
@@ -5488,7 +5488,7 @@
     "jaJP": "チャージドボルトを%d本放つ",
     "ptBR": "Dispara %d setas carregadas",
     "ruRU": "Залпов молний: %d",
-    "zhCN": "释放出%d枚电荷弹"
+    "zhCN": "释放出%d枚电能弹"
   },
   {
     "id": 4327,
@@ -5505,7 +5505,7 @@
     "jaJP": " チャージドボルト",
     "ptBR": " setas carregadas",
     "ruRU": " залпов молний",
-    "zhCN": "电荷弹"
+    "zhCN": "电能弹"
   },
   {
     "id": 4328,
@@ -5970,7 +5970,7 @@
     "id": 4355,
     "Key": "StrSkill102",
     "enUS": "Max Stamina: %+d%%",
-    "zhTW": "精力上限：%+d%%",
+    "zhTW": "活力上限：%+d%%",
     "deDE": "Max. Ausdauer: %+d%%",
     "esES": "Aguante máximo: %+d%%",
     "frFR": "Endurance max. : %+d%%",
@@ -7239,7 +7239,7 @@
     "jaJP": "パワーストライク",
     "ptBR": "Golpe Poderoso",
     "ruRU": "Мощный удар",
-    "zhCN": "电荷攻击"
+    "zhCN": "充能强击"
   },
   {
     "id": 4430,
@@ -7290,7 +7290,7 @@
     "jaJP": "パワーストライク",
     "ptBR": "Golpe Poderoso",
     "ruRU": "Мощный удар",
-    "zhCN": "电荷攻击"
+    "zhCN": "充能强击"
   },
   {
     "id": 4433,
@@ -7936,7 +7936,7 @@
     "jaJP": "刺突武器に電撃ダメージを付与する",
     "ptBR": "encanta armas perfurantes com setas carregadas",
     "ruRU": "Колющее оружие выпускает залпы молний.",
-    "zhCN": "强化戳刺武器使其可以释放电荷弹"
+    "zhCN": "强化戳刺武器使其可以释放电能弹"
   },
   {
     "id": 4471,
@@ -7953,7 +7953,7 @@
     "jaJP": "ジャベリンやスピア系の武器に電撃ダメージが\n追加され、命中時にチャージドボルトが放たれる",
     "ptBR": "adiciona dano elétrico a armas da classe dardo e lança\ne dispara setas carregadas após o impacto",
     "ruRU": "Добавляет урон от молнии к атакам\nдротиком или копьем. Выпускает\nзалп молний при попадании.",
-    "zhCN": "为标枪和长矛类武器添加闪电伤害\n并在击中目标时放出电荷弹"
+    "zhCN": "为标枪和长矛类武器添加闪电伤害\n并在击中目标时放出电能弹"
   },
   {
     "id": 4472,
@@ -8055,7 +8055,7 @@
     "jaJP": "連続射撃",
     "ptBR": "Saraivada",
     "ruRU": "Обстрел",
-    "zhCN": "连珠箭"
+    "zhCN": "炮轰"
   },
   {
     "id": 4478,
@@ -8106,7 +8106,7 @@
     "jaJP": "連続射撃",
     "ptBR": "Saraivada",
     "ruRU": "Обстрел",
-    "zhCN": "连珠箭"
+    "zhCN": "炮轰"
   },
   {
     "id": 4481,
@@ -8803,7 +8803,7 @@
     "jaJP": "インナーフレイム",
     "ptBR": "Calor",
     "ruRU": "Тепло",
-    "zhCN": "暖身术"
+    "zhCN": "暖流"
   },
   {
     "id": 4522,
@@ -8854,7 +8854,7 @@
     "jaJP": "インナーフレイム",
     "ptBR": "Calor",
     "ruRU": "Тепло",
-    "zhCN": "暖身术"
+    "zhCN": "暖流"
   },
   {
     "id": 4525,
@@ -8871,7 +8871,7 @@
     "jaJP": "チャージドボルト",
     "ptBR": "Seta Carregada",
     "ruRU": "Залп молний",
-    "zhCN": "电荷弹"
+    "zhCN": "电能弹"
   },
   {
     "id": 4526,
@@ -8922,7 +8922,7 @@
     "jaJP": "チャージドボルト",
     "ptBR": "Seta Carregada",
     "ruRU": "Залп молний",
-    "zhCN": "电荷弹"
+    "zhCN": "电能弹"
   },
   {
     "id": 4529,
@@ -8939,7 +8939,7 @@
     "jaJP": "アイスボルト",
     "ptBR": "Seta de Gelo",
     "ruRU": "Стрела льда",
-    "zhCN": "冰霜弹"
+    "zhCN": "寒冰弹"
   },
   {
     "id": 4530,
@@ -8990,7 +8990,7 @@
     "jaJP": "アイスボルト",
     "ptBR": "Seta de Gelo",
     "ruRU": "Стрела льда",
-    "zhCN": "冰霜弹"
+    "zhCN": "寒冰弹"
   },
   {
     "id": 4533,
@@ -9143,7 +9143,7 @@
     "jaJP": "スタティックフィールド",
     "ptBR": "Campo Estático",
     "ruRU": "Статическое поле",
-    "zhCN": "静电场"
+    "zhCN": "静电力场"
   },
   {
     "id": 4542,
@@ -9177,7 +9177,7 @@
     "jaJP": "スタティックフィ…",
     "ptBR": "Campo Estático",
     "ruRU": "Статическое поле",
-    "zhCN": "静电场"
+    "zhCN": "静电力场"
   },
   {
     "id": 4545,
@@ -9330,7 +9330,7 @@
     "jaJP": "アイスブラスト",
     "ptBR": "Impacto Gélido",
     "ruRU": "Ледяной удар",
-    "zhCN": "冰球爆"
+    "zhCN": "寒冰球"
   },
   {
     "id": 4554,
@@ -9381,7 +9381,7 @@
     "jaJP": "アイスブラスト",
     "ptBR": "Impacto Gélido",
     "ruRU": "Ледяной удар",
-    "zhCN": "冰球爆"
+    "zhCN": "寒冰球"
   },
   {
     "id": 4557,
@@ -9398,7 +9398,7 @@
     "jaJP": "ブレイズ",
     "ptBR": "Incêndio",
     "ruRU": "Огненный след",
-    "zhCN": "足跟火"
+    "zhCN": "炽烈之径"
   },
   {
     "id": 4558,
@@ -9449,7 +9449,7 @@
     "jaJP": "ブレイズ",
     "ptBR": "Incêndio",
     "ruRU": "Огненный след",
-    "zhCN": "足跟火"
+    "zhCN": "炽烈之径"
   },
   {
     "id": 4561,
@@ -9602,7 +9602,7 @@
     "jaJP": "ライトニング",
     "ptBR": "Raio Trovejante",
     "ruRU": "Молния",
-    "zhCN": "闪电术"
+    "zhCN": "闪电箭"
   },
   {
     "id": 4570,
@@ -9653,7 +9653,7 @@
     "jaJP": "ライトニング",
     "ptBR": "Raio Trovejante",
     "ruRU": "Молния",
-    "zhCN": "闪电术"
+    "zhCN": "闪电箭"
   },
   {
     "id": 4573,
@@ -9738,7 +9738,7 @@
     "jaJP": "ファイアウォール",
     "ptBR": "Parede de Fogo",
     "ruRU": "Огненная стена",
-    "zhCN": "火焰墙"
+    "zhCN": "火墙"
   },
   {
     "id": 4578,
@@ -9789,7 +9789,7 @@
     "jaJP": "ファイアウォール",
     "ptBR": "Parede de Fogo",
     "ruRU": "Огненная стена",
-    "zhCN": "火焰墙"
+    "zhCN": "火墙"
   },
   {
     "id": 4581,
@@ -10146,7 +10146,7 @@
     "jaJP": "サンダーストーム",
     "ptBR": "Tempestade Trovejante",
     "ruRU": "Гроза",
-    "zhCN": "雷暴术"
+    "zhCN": "雷云风暴"
   },
   {
     "id": 4602,
@@ -10197,7 +10197,7 @@
     "jaJP": "サンダーストーム",
     "ptBR": "Tempestade Trovejante",
     "ruRU": "Гроза",
-    "zhCN": "雷暴术"
+    "zhCN": "雷云风暴"
   },
   {
     "id": 4605,
@@ -10214,7 +10214,7 @@
     "jaJP": "エナジーシールド",
     "ptBR": "Escudo de Energia",
     "ruRU": "Энергетический щит",
-    "zhCN": "能量盾"
+    "zhCN": "能量护盾"
   },
   {
     "id": 4606,
@@ -10265,7 +10265,7 @@
     "jaJP": "エナジーシールド",
     "ptBR": "Escudo de Energia",
     "ruRU": "Энергетический щит",
-    "zhCN": "能量盾"
+    "zhCN": "能量护盾"
   },
   {
     "id": 4609,
@@ -10384,7 +10384,7 @@
     "jaJP": "防御力が上がり、遠距離攻撃の\n敵に対してアイスボルトを撃ち返す",
     "ptBR": "aumenta a defesa e dispara uma seta de gelo\ncontra agressores de longo alcance",
     "ruRU": "Усиливает защиту и выпускает стрелы льда\nво врагов, попавших в вас атакой дальнего боя.",
-    "zhCN": "提高防御值, 并向远程攻击者\n反射出一枚冰霜弹"
+    "zhCN": "提高防御值, 并向远程攻击者\n反射出一枚寒冰弹"
   },
   {
     "id": 4616,
@@ -10418,7 +10418,7 @@
     "jaJP": "ファイアマスター",
     "ptBR": "Maestria do Fogo",
     "ruRU": "Мастер огня",
-    "zhCN": "火系精通"
+    "zhCN": "火焰支配"
   },
   {
     "id": 4618,
@@ -10469,7 +10469,7 @@
     "jaJP": "ファイアマスター",
     "ptBR": "Maestria do Fogo",
     "ruRU": "Мастер огня",
-    "zhCN": "火系精通"
+    "zhCN": "火焰支配"
   },
   {
     "id": 4621,
@@ -10554,7 +10554,7 @@
     "jaJP": "ライトニングマスター",
     "ptBR": "Maestria da Eletricidade",
     "ruRU": "Мастер молнии",
-    "zhCN": "雷系精通"
+    "zhCN": "闪电支配"
   },
   {
     "id": 4626,
@@ -10605,7 +10605,7 @@
     "jaJP": "ライトニングマス…",
     "ptBR": "Maestria da Eletricidade",
     "ruRU": "Мастер молнии",
-    "zhCN": "雷系精通"
+    "zhCN": "闪电支配"
   },
   {
     "id": 4629,
@@ -10690,7 +10690,7 @@
     "jaJP": "コールドマスター",
     "ptBR": "Maestria do Gelo",
     "ruRU": "Мастер льда",
-    "zhCN": "冰系精通"
+    "zhCN": "寒冰支配"
   },
   {
     "id": 4634,
@@ -10724,7 +10724,7 @@
     "jaJP": "コールドマスター",
     "ptBR": "Maestria do Gelo",
     "ruRU": "Мастер льда",
-    "zhCN": "冰系精通"
+    "zhCN": "寒冰支配"
   },
   {
     "id": 4637,
@@ -10809,13 +10809,13 @@
     "jaJP": "ティース",
     "ptBR": "Dentes",
     "ruRU": "Клыки",
-    "zhCN": "骨牙"
+    "zhCN": "剔骨之牙"
   },
   {
     "id": 4642,
     "Key": "skillsd67",
     "enUS": "fires barbed teeth",
-    "zhTW": "射出尖銳無比的骨牙",
+    "zhTW": "射出尖銳無比的剔骨之牙",
     "deDE": "Verschießt spitze Zähne.",
     "esES": "Dispara dientes con púas.",
     "frFR": "tire des dents acérées",
@@ -10826,7 +10826,7 @@
     "jaJP": "鋭い牙を放つ",
     "ptBR": "dispara dentes farpados",
     "ruRU": "Выпускает зазубренные клыки.",
-    "zhCN": "发射出带倒刺的骨牙"
+    "zhCN": "发射出带倒刺的剔骨之牙"
   },
   {
     "id": 4643,
@@ -10843,7 +10843,7 @@
     "jaJP": "召喚した多数の鋭い牙を放つ",
     "ptBR": "dispara uma salva de dentes farpados evocados",
     "ruRU": "Обстреливает врагов зазубренными клыками.",
-    "zhCN": "发射出一排带有倒刺的骨牙"
+    "zhCN": "发射出一排带有倒刺的剔骨之牙"
   },
   {
     "id": 4644,
@@ -10860,7 +10860,7 @@
     "jaJP": "ティース",
     "ptBR": "Dentes",
     "ruRU": "Клыки",
-    "zhCN": "骨牙"
+    "zhCN": "剔骨之牙"
   },
   {
     "id": 4645,
@@ -10877,7 +10877,7 @@
     "jaJP": "ボーンアーマー",
     "ptBR": "Armadura de Ossos",
     "ruRU": "Костяной доспех",
-    "zhCN": "骨甲"
+    "zhCN": "骸骨护甲"
   },
   {
     "id": 4646,
@@ -10894,7 +10894,7 @@
     "jaJP": "近接攻撃を受け止める骨の鎧を召喚する",
     "ptBR": "cria um casco ósseo que absorve dano",
     "ruRU": "Создает костяной щит, поглощающий урон.",
-    "zhCN": "制造一道白骨甲壳吸收伤害"
+    "zhCN": "制造一道白骸骨护甲壳吸收伤害"
   },
   {
     "id": 4647,
@@ -10928,7 +10928,7 @@
     "jaJP": "ボーンアーマー",
     "ptBR": "Armadura de Ossos",
     "ruRU": "Костяной доспех",
-    "zhCN": "骨甲"
+    "zhCN": "骸骨护甲"
   },
   {
     "id": 4649,
@@ -10945,7 +10945,7 @@
     "jaJP": "スケルトンマスター",
     "ptBR": "Maestria do Esqueleto",
     "ruRU": "Мастер скелетов",
-    "zhCN": "骷髅精通"
+    "zhCN": "骷髅专精"
   },
   {
     "id": 4650,
@@ -10996,7 +10996,7 @@
     "jaJP": "スケルトンマスター",
     "ptBR": "Maestria do Esqueleto",
     "ruRU": "Мастер скелетов",
-    "zhCN": "骷髅精通"
+    "zhCN": "骷髅专精"
   },
   {
     "id": 4653,
@@ -11206,7 +11206,7 @@
     "id": 4665,
     "Key": "skillname73",
     "enUS": "Poison Dagger",
-    "zhTW": "淬毒匕首",
+    "zhTW": "淬淬毒匕首首",
     "deDE": "Giftdolch",
     "esES": "Daga venenosa",
     "frFR": "Dague empoisonnée",
@@ -11217,7 +11217,7 @@
     "jaJP": "ポイズンダガー",
     "ptBR": "Adaga Venenosa",
     "ruRU": "Отравленный кинжал",
-    "zhCN": "毒匕"
+    "zhCN": "淬毒匕首"
   },
   {
     "id": 4666,
@@ -11257,7 +11257,7 @@
     "id": 4668,
     "Key": "skillan73",
     "enUS": "Poison Dagger",
-    "zhTW": "淬毒匕首",
+    "zhTW": "淬淬毒匕首首",
     "deDE": "Giftdolch",
     "esES": "Daga venenosa",
     "frFR": "Dague poison",
@@ -11268,7 +11268,7 @@
     "jaJP": "ポイズンダガー",
     "ptBR": "Adaga Venenosa",
     "ruRU": "Отравленный кинжал",
-    "zhCN": "毒匕"
+    "zhCN": "淬毒匕首"
   },
   {
     "id": 4669,
@@ -11285,7 +11285,7 @@
     "jaJP": "コープスエクスプロージョン",
     "ptBR": "Explodir Cadáver",
     "ruRU": "Взрыв трупа",
-    "zhCN": "邪爆"
+    "zhCN": "尸爆"
   },
   {
     "id": 4670,
@@ -11336,7 +11336,7 @@
     "jaJP": "コープスエクスプ…",
     "ptBR": "Expl. Cadáver",
     "ruRU": "Взрыв трупа",
-    "zhCN": "邪爆"
+    "zhCN": "尸爆"
   },
   {
     "id": 4673,
@@ -11353,7 +11353,7 @@
     "jaJP": "クレイゴーレム",
     "ptBR": "Golem de Barro",
     "ruRU": "Глиняный голем",
-    "zhCN": "黏土傀儡"
+    "zhCN": "黏土石魔"
   },
   {
     "id": 4674,
@@ -11370,7 +11370,7 @@
     "jaJP": "土のゴーレムを作って戦わせる",
     "ptBR": "cria um golem para lutar por você",
     "ruRU": "Создает голема, который помогает вам в бою.",
-    "zhCN": "制造一个傀儡为你而战"
+    "zhCN": "制造一个石魔为你而战"
   },
   {
     "id": 4675,
@@ -11387,7 +11387,7 @@
     "jaJP": "土からゴーレムを\n作り出して戦わせる",
     "ptBR": "cria um golem da terra\npara lutar ao seu lado",
     "ruRU": "Создает из земли голема.",
-    "zhCN": "用黏土制造一个傀儡\n和你并肩战斗"
+    "zhCN": "用黏土制造一个石魔\n和你并肩战斗"
   },
   {
     "id": 4676,
@@ -11404,7 +11404,7 @@
     "jaJP": "クレイゴーレム",
     "ptBR": "Golem de Barro",
     "ruRU": "Глиняный голем",
-    "zhCN": "黏土傀儡"
+    "zhCN": "黏土石魔"
   },
   {
     "id": 4677,
@@ -11625,7 +11625,7 @@
     "jaJP": "ゴーレムマスター",
     "ptBR": "Maestria do Golem",
     "ruRU": "Мастер големов",
-    "zhCN": "傀儡精通"
+    "zhCN": "魔像专精"
   },
   {
     "id": 4690,
@@ -11642,7 +11642,7 @@
     "jaJP": "ゴーレムのライフと移動速度が上がる",
     "ptBR": "Aumenta a velocidade e os pontos de vida dos golens",
     "ruRU": "Увеличивает скорость и здоровье големов.",
-    "zhCN": "强化所有傀儡的速度和生命"
+    "zhCN": "强化所有石魔的速度和生命"
   },
   {
     "id": 4691,
@@ -11659,7 +11659,7 @@
     "jaJP": "召喚するゴーレムのライフと移動速度が上がる",
     "ptBR": "Aumenta a velocidade e os pontos de vida de todos os seus golens",
     "ruRU": "Увеличивает скорость и здоровье големов.",
-    "zhCN": "提高所有傀儡的速度和生命"
+    "zhCN": "提高所有石魔的速度和生命"
   },
   {
     "id": 4692,
@@ -11676,7 +11676,7 @@
     "jaJP": "ゴーレムマスター",
     "ptBR": "Maestria do Golem",
     "ruRU": "Мастер големов",
-    "zhCN": "傀儡精通"
+    "zhCN": "魔像专精"
   },
   {
     "id": 4693,
@@ -11829,7 +11829,7 @@
     "jaJP": "生気吸収",
     "ptBR": "Sifão de Vida",
     "ruRU": "Похищение жизни",
-    "zhCN": "生命吸取"
+    "zhCN": "偷取生命"
   },
   {
     "id": 4702,
@@ -11880,7 +11880,7 @@
     "jaJP": "生気吸収",
     "ptBR": "Sifão de Vida",
     "ruRU": "Похищение жизни",
-    "zhCN": "生命吸取"
+    "zhCN": "偷取生命"
   },
   {
     "id": 4705,
@@ -12033,7 +12033,7 @@
     "jaJP": "ブラッドゴーレム",
     "ptBR": "Golem de Sangue",
     "ruRU": "Кровяной голем",
-    "zhCN": "鲜血傀儡"
+    "zhCN": "鲜血石魔"
   },
   {
     "id": 4714,
@@ -12050,7 +12050,7 @@
     "jaJP": "奪ったライフを術者と共有するゴーレムを作る",
     "ptBR": "um golem que compartilha os pontos de vida que ele rouba",
     "ruRU": "Голем, который похищает здоровье и передает его некроманту.",
-    "zhCN": "一个可以窃取并分享生命力的傀儡"
+    "zhCN": "一个可以窃取并分享生命力的石魔"
   },
   {
     "id": 4715,
@@ -12067,7 +12067,7 @@
     "jaJP": "敵から奪ったライフを術者と共有する\nゴーレムを作り出す",
     "ptBR": "cria um golem que compartilha com você os pontos de vida que\nele rouba",
     "ruRU": "Создает голема, который передает\nвам похищаемое им здоровье.",
-    "zhCN": "制造一个傀儡, 与你分享\n它所偷取的生命"
+    "zhCN": "制造一个石魔, 与你分享\n它所偷取的生命"
   },
   {
     "id": 4716,
@@ -12084,7 +12084,7 @@
     "jaJP": "ブラッドゴーレム",
     "ptBR": "Golem de Sangue",
     "ruRU": "Кровяной голем",
-    "zhCN": "鲜血傀儡"
+    "zhCN": "鲜血石魔"
   },
   {
     "id": 4717,
@@ -12373,7 +12373,7 @@
     "jaJP": "アイアンゴーレム",
     "ptBR": "Golem de Ferro",
     "ruRU": "Железный голем",
-    "zhCN": "钢铁傀儡"
+    "zhCN": "钢铁石魔"
   },
   {
     "id": 4734,
@@ -12390,7 +12390,7 @@
     "jaJP": "金属製のアイテムからゴーレムを作る",
     "ptBR": "transforma um item em um golem",
     "ruRU": "Создает голема из предмета.",
-    "zhCN": "从一个物品中制造出傀儡"
+    "zhCN": "从一个物品中制造出石魔"
   },
   {
     "id": 4735,
@@ -12407,7 +12407,7 @@
     "jaJP": "金属製のアイテムをゴーレムに変異させる\nゴーレムは媒体となるアイテムの性質を受け継ぐ",
     "ptBR": "transforma um item metálico em um golem que ganha\nas propriedades do item",
     "ruRU": "Превращает металлический предмет в голема.\nкоторый получает свойства этого предмета.",
-    "zhCN": "将一个金属物品变为傀儡\n获得物品上的属性"
+    "zhCN": "将一个金属物品变为石魔\n获得物品上的属性"
   },
   {
     "id": 4736,
@@ -12424,7 +12424,7 @@
     "jaJP": "アイアンゴーレム",
     "ptBR": "Golem de Ferro",
     "ruRU": "Железный голем",
-    "zhCN": "钢铁傀儡"
+    "zhCN": "钢铁石魔"
   },
   {
     "id": 4737,
@@ -12645,7 +12645,7 @@
     "jaJP": "ファイアゴーレム",
     "ptBR": "Golem de Fogo",
     "ruRU": "Огненный голем",
-    "zhCN": "火焰傀儡"
+    "zhCN": "火焰石魔"
   },
   {
     "id": 4750,
@@ -12662,7 +12662,7 @@
     "jaJP": "炎のゴーレムを作る",
     "ptBR": "cria um golem de fogo",
     "ruRU": "Создает огненного голема.",
-    "zhCN": "制造一个火焰傀儡"
+    "zhCN": "制造一个火焰石魔"
   },
   {
     "id": 4751,
@@ -12679,7 +12679,7 @@
     "jaJP": "受ける火炎ダメージをライフに\n変換するゴーレムを作り出す",
     "ptBR": "cria um golem que converte o dano ígneo\nque recebe em pontos de vida",
     "ruRU": "Создает голема, который восполняет\nздоровье, получая урон от огня.",
-    "zhCN": "制造出傀儡, 将受到的火焰伤害\n转化为生命"
+    "zhCN": "制造出石魔, 将受到的火焰伤害\n转化为生命"
   },
   {
     "id": 4752,
@@ -12696,7 +12696,7 @@
     "jaJP": "ファイアゴーレム",
     "ptBR": "Golem de Fogo",
     "ruRU": "Огненный голем",
-    "zhCN": "火焰傀儡"
+    "zhCN": "火焰石魔"
   },
   {
     "id": 4753,
@@ -13733,7 +13733,7 @@
     "jaJP": "電撃耐性",
     "ptBR": "Resistência Elétrica",
     "ruRU": "Сопротивление молнии",
-    "zhCN": "抗雷"
+    "zhCN": "抗电"
   },
   {
     "id": 4814,
@@ -13784,7 +13784,7 @@
     "jaJP": "電撃耐性",
     "ptBR": "Resist. Elétrica",
     "ruRU": "Сопр. молнии",
-    "zhCN": "抗雷"
+    "zhCN": "抗电"
   },
   {
     "id": 4817,
@@ -14005,7 +14005,7 @@
     "jaJP": "聖なる冷気",
     "ptBR": "Congelamento Sagrado",
     "ruRU": "Священный холод",
-    "zhCN": "神圣之冰"
+    "zhCN": "神圣冰冻"
   },
   {
     "id": 4830,
@@ -14056,7 +14056,7 @@
     "jaJP": "聖なる冷気",
     "ptBR": "Congelamento Sagrado",
     "ruRU": "Священный холод",
-    "zhCN": "神圣之冰"
+    "zhCN": "神圣冰冻"
   },
   {
     "id": 4833,
@@ -14073,13 +14073,13 @@
     "jaJP": "血気",
     "ptBR": "Disposição",
     "ruRU": "Бодрость",
-    "zhCN": "精力"
+    "zhCN": "活力"
   },
   {
     "id": 4834,
     "Key": "skillsd115",
     "enUS": "aura - increases speed and stamina recovery",
-    "zhTW": "靈氣 - 提高速度和精力恢復率",
+    "zhTW": "靈氣 - 提高速度和活力恢復率",
     "deDE": "Aura - Erhöht Geschwindigkeit und Ausdauerregeneration.",
     "esES": "Aura: Aumenta la velocidad y la recuperación de aguante.",
     "frFR": "aura - augmente la récupération de la vitesse et de l’endurance",
@@ -14096,7 +14096,7 @@
     "id": 4835,
     "Key": "skillld115",
     "enUS": "when active, aura increases stamina recovery rate, maximum stamina\nand movement speed for you and your party",
-    "zhTW": "啟用時，靈氣會提高你和隊伍成員的精力恢復率，精力上限，以及移動速度",
+    "zhTW": "啟用時，靈氣會提高你和隊伍成員的活力恢復率，活力上限，以及移動速度",
     "deDE": "Aura - Erhöht Geschwindigkeit, maximale Ausdauer und\nAusdauerregeneration für Euch und Eure Gruppe.",
     "esES": "Cuando está activa, el aura os otorga\nun aumento de índice de recuperación de aguante,\naguante máximo y velocidad de movimiento\na ti y tu grupo.",
     "frFR": "activée, l’aura augmente le taux de récupération\nd’endurance, d’endurance max. et la vitesse de\ndéplacement de votre groupe et vous",
@@ -14124,7 +14124,7 @@
     "jaJP": "血気",
     "ptBR": "Disposição",
     "ruRU": "Бодрость",
-    "zhCN": "精力"
+    "zhCN": "活力"
   },
   {
     "id": 4837,
@@ -14209,7 +14209,7 @@
     "jaJP": "聖なる盾",
     "ptBR": "Escudo Sagrado",
     "ruRU": "Освященный щит",
-    "zhCN": "圣盾术"
+    "zhCN": "神圣之盾"
   },
   {
     "id": 4842,
@@ -14260,7 +14260,7 @@
     "jaJP": "聖なる盾",
     "ptBR": "Escudo Sagrado",
     "ruRU": "Освященный щит",
-    "zhCN": "圣盾术"
+    "zhCN": "神圣之盾"
   },
   {
     "id": 4845,
@@ -14277,7 +14277,7 @@
     "jaJP": "聖なる稲妻",
     "ptBR": "Choque Sagrado",
     "ruRU": "Священная молния",
-    "zhCN": "神圣之雷"
+    "zhCN": "神圣电击"
   },
   {
     "id": 4846,
@@ -14328,7 +14328,7 @@
     "jaJP": "聖なる稲妻",
     "ptBR": "Choque Sagrado",
     "ruRU": "Священная молния",
-    "zhCN": "神圣之雷"
+    "zhCN": "神圣电击"
   },
   {
     "id": 4849,
@@ -14413,7 +14413,7 @@
     "jaJP": "瞑想",
     "ptBR": "Meditação",
     "ruRU": "Медитация",
-    "zhCN": "冥思"
+    "zhCN": "冥想"
   },
   {
     "id": 4854,
@@ -14464,7 +14464,7 @@
     "jaJP": "瞑想",
     "ptBR": "Meditação",
     "ruRU": "Медитация",
-    "zhCN": "冥思"
+    "zhCN": "冥想"
   },
   {
     "id": 4857,
@@ -14617,7 +14617,7 @@
     "jaJP": "信念",
     "ptBR": "Convicção",
     "ruRU": "Осуждение",
-    "zhCN": "定罪"
+    "zhCN": "信念"
   },
   {
     "id": 4866,
@@ -14668,7 +14668,7 @@
     "jaJP": "信念",
     "ptBR": "Convicção",
     "ruRU": "Осуждение",
-    "zhCN": "定罪"
+    "zhCN": "信念"
   },
   {
     "id": 4869,
@@ -14753,7 +14753,7 @@
     "jaJP": "救済",
     "ptBR": "Salvação",
     "ruRU": "Спасение",
-    "zhCN": "拯救"
+    "zhCN": "圣护"
   },
   {
     "id": 4874,
@@ -14804,7 +14804,7 @@
     "jaJP": "救済",
     "ptBR": "Salvação",
     "ruRU": "Спасение",
-    "zhCN": "拯救"
+    "zhCN": "圣护"
   },
   {
     "id": 4877,
@@ -15161,7 +15161,7 @@
     "jaJP": "ポーション発見",
     "ptBR": "Encontrar Poção",
     "ruRU": "Поиск зелий",
-    "zhCN": "寻药"
+    "zhCN": "寻找药水"
   },
   {
     "id": 4898,
@@ -15212,7 +15212,7 @@
     "jaJP": "ポーション発見",
     "ptBR": "Encontrar Poção",
     "ruRU": "Поиск зелий",
-    "zhCN": "寻药"
+    "zhCN": "寻找药水"
   },
   {
     "id": 4901,
@@ -15830,7 +15830,7 @@
     "id": 4937,
     "Key": "skillname141",
     "enUS": "Increased Stamina",
-    "zhTW": "提高精力",
+    "zhTW": "提高活力",
     "deDE": "Erhöhte Ausdauer",
     "esES": "Aguante aumentado",
     "frFR": "Bonus d’endurance",
@@ -15847,7 +15847,7 @@
     "id": 4938,
     "Key": "skillsd141",
     "enUS": "passive - increases stamina",
-    "zhTW": "被動 - 提高精力",
+    "zhTW": "被動 - 提高活力",
     "deDE": "Passiv - Erhöht die Ausdauer.",
     "esES": "Pasiva: Aumenta el aguante.",
     "frFR": "passif - augmente l’endurance",
@@ -15864,7 +15864,7 @@
     "id": 4939,
     "Key": "skillld141",
     "enUS": "passive - increases your stamina",
-    "zhTW": "被動 - 提高你的精力",
+    "zhTW": "被動 - 提高你的活力",
     "deDE": "Passiv - Erhöht Eure Ausdauer.",
     "esES": "Pasiva: Aumenta tu aguante.",
     "frFR": "passif - augmente votre endurance",
@@ -15881,7 +15881,7 @@
     "id": 4940,
     "Key": "skillan141",
     "enUS": "Increased Stamina",
-    "zhTW": "提高精力",
+    "zhTW": "提高活力",
     "deDE": "Erhöhte Ausdauer",
     "esES": "Aguante aumentado",
     "frFR": "Bonus endurance",
@@ -15909,7 +15909,7 @@
     "jaJP": "アイテム発見",
     "ptBR": "Encontrar Item",
     "ruRU": "Поиск предметов",
-    "zhCN": "寻物"
+    "zhCN": "寻找物品"
   },
   {
     "id": 4942,
@@ -15960,7 +15960,7 @@
     "jaJP": "アイテム発見",
     "ptBR": "Encontrar Item",
     "ruRU": "Поиск предметов",
-    "zhCN": "寻物"
+    "zhCN": "寻找物品"
   },
   {
     "id": 4945,
@@ -15977,7 +15977,7 @@
     "jaJP": "リープアタック",
     "ptBR": "Ataque Saltante",
     "ruRU": "Удар в прыжке",
-    "zhCN": "腾空斩"
+    "zhCN": "跳击"
   },
   {
     "id": 4946,
@@ -16028,7 +16028,7 @@
     "jaJP": "リープアタック",
     "ptBR": "Ataque Saltante",
     "ruRU": "Удар в прыжке",
-    "zhCN": "腾空斩"
+    "zhCN": "跳击"
   },
   {
     "id": 4949,
@@ -16368,13 +16368,13 @@
     "jaJP": "鼓舞",
     "ptBR": "Ordens Guerreiras",
     "ruRU": "Боевые приказы",
-    "zhCN": "战斗号令"
+    "zhCN": "战斗命令"
   },
   {
     "id": 4970,
     "Key": "skillsd149",
     "enUS": "improves life, mana and stamina of party",
-    "zhTW": "提高隊伍的生命、法力和精力",
+    "zhTW": "提高隊伍的生命、法力和活力",
     "deDE": "Erhöht Leben, Mana und Ausdauer der Gruppe.",
     "esES": "Mejora la vida, el maná y el aguante del grupo.",
     "frFR": "améliore la vie, le mana et l’endurance du groupe",
@@ -16391,7 +16391,7 @@
     "id": 4971,
     "Key": "skillld149",
     "enUS": "improves the maximum mana, life and\nstamina of you and your party",
-    "zhTW": "提高你和隊伍成員的法力、生命和精力上限",
+    "zhTW": "提高你和隊伍成員的法力、生命和活力上限",
     "deDE": "Erhöht den Maximalwert für Mana, Leben\nund Ausdauer von Euch und Eurer Gruppe.",
     "esES": "Os otorga un aumento de la\ncantidad máxima de maná, \nvida y aguante a ti y tu grupo.",
     "frFR": "améliore le nombre de points max. de mana,\nde vie et d’endurance de votre groupe et vous",
@@ -16419,7 +16419,7 @@
     "jaJP": "鼓舞",
     "ptBR": "Ordens Guerreiras",
     "ruRU": "Боевые приказы",
-    "zhCN": "战斗号令"
+    "zhCN": "战斗命令"
   },
   {
     "id": 4973,
@@ -16436,7 +16436,7 @@
     "jaJP": "グリムウォード",
     "ptBR": "Guardião Sinistro",
     "ruRU": "Пугающий тотем",
-    "zhCN": "骇物阻吓"
+    "zhCN": "恐怖图腾"
   },
   {
     "id": 4974,
@@ -16487,7 +16487,7 @@
     "jaJP": "グリムウォード",
     "ptBR": "Guardião Sinistro",
     "ruRU": "Пугающий тотем",
-    "zhCN": "骇物阻吓"
+    "zhCN": "恐怖图腾"
   },
   {
     "id": 4977,
@@ -16572,7 +16572,7 @@
     "jaJP": "バーサーク",
     "ptBR": "Berserker",
     "ruRU": "Берсерк",
-    "zhCN": "狂战士"
+    "zhCN": "狂暴之击"
   },
   {
     "id": 4982,
@@ -16623,7 +16623,7 @@
     "jaJP": "バーサーク",
     "ptBR": "Berserker",
     "ruRU": "Берсерк",
-    "zhCN": "狂战士"
+    "zhCN": "狂暴之击"
   },
   {
     "id": 4985,
@@ -16708,7 +16708,7 @@
     "jaJP": "ウォークライ",
     "ptBR": "Grito de Guerra",
     "ruRU": "Воинственный клич",
-    "zhCN": "怒嗥"
+    "zhCN": "战争狂啸"
   },
   {
     "id": 4990,
@@ -16759,7 +16759,7 @@
     "jaJP": "ウォークライ",
     "ptBR": "Grito de Guerra",
     "ruRU": "Воинственный клич",
-    "zhCN": "怒嗥"
+    "zhCN": "战争狂啸"
   },
   {
     "id": 4993,
@@ -16844,7 +16844,7 @@
     "jaJP": "鑑定の巻物",
     "ptBR": "Pergaminho de Identificação",
     "ruRU": "Свиток распознания",
-    "zhCN": "鉴定卷轴"
+    "zhCN": "辨识卷轴"
   },
   {
     "id": 4998,
@@ -16861,7 +16861,7 @@
     "jaJP": "マジックアイテムの特性を鑑定する",
     "ptBR": "identifica as propriedades de um item mágico",
     "ruRU": "Выявляет свойства магического предмета.",
-    "zhCN": "鉴定一个魔法物品的属性"
+    "zhCN": "辨识一个魔法物品的属性"
   },
   {
     "id": 4999,
@@ -16878,7 +16878,7 @@
     "jaJP": "マジックアイテムの特性を鑑定する",
     "ptBR": "identifica as propriedades de um item mágico",
     "ruRU": "Выявляет свойства магического предмета.",
-    "zhCN": "鉴定一个魔法物品的属性"
+    "zhCN": "辨识一个魔法物品的属性"
   },
   {
     "id": 5000,
@@ -16895,7 +16895,7 @@
     "jaJP": "鑑定",
     "ptBR": "Identificação",
     "ruRU": "Распознание предметов",
-    "zhCN": "鉴定"
+    "zhCN": "辨识"
   },
   {
     "id": 5001,
@@ -16912,7 +16912,7 @@
     "jaJP": "鑑定の書",
     "ptBR": "Tomo de Identificação",
     "ruRU": "Фолиант распознания",
-    "zhCN": "鉴定之书"
+    "zhCN": "辨识之书"
   },
   {
     "id": 5002,
@@ -16929,7 +16929,7 @@
     "jaJP": "マジックアイテムの特性を鑑定する",
     "ptBR": "identifica as propriedades de um item mágico",
     "ruRU": "Выявляет свойства магического предмета.",
-    "zhCN": "鉴定一个魔法物品的属性"
+    "zhCN": "辨识一个魔法物品的属性"
   },
   {
     "id": 5003,
@@ -16946,7 +16946,7 @@
     "jaJP": "マジックアイテムの特性を鑑定する",
     "ptBR": "identifica as propriedades de um item mágico",
     "ruRU": "Выявляет свойства магического предмета.",
-    "zhCN": "鉴定一个魔法物品的属性"
+    "zhCN": "辨识一个魔法物品的属性"
   },
   {
     "id": 5004,
@@ -16963,7 +16963,7 @@
     "jaJP": "鑑定",
     "ptBR": "Identificação",
     "ruRU": "Распознание",
-    "zhCN": "鉴定"
+    "zhCN": "辨识"
   },
   {
     "id": 5005,
@@ -28523,7 +28523,7 @@
     "jaJP": "コープスエクスプロージョンのダメージ: 死体のライフの%d - %d%%",
     "ptBR": "Dano de Explodir Cadáver: %d-%d%% de pontos de vida de cadáver",
     "ruRU": "Урон от взрыва трупа: %d–%d%% здоровья убитого монстра",
-    "zhCN": "邪爆伤害: 尸体生命值的%d-%d%%"
+    "zhCN": "尸爆伤害: 尸体生命值的%d-%d%%"
   },
   {
     "id": 10997,
@@ -29033,7 +29033,7 @@
     "jaJP": "電撃魔法",
     "ptBR": "Eletricidade",
     "ruRU": "Магия молнии",
-    "zhCN": "雷系法术"
+    "zhCN": "闪电法术"
   },
   {
     "id": 11198,
@@ -29798,7 +29798,7 @@
     "jaJP": "老楢の護り",
     "ptBR": "Sábio da Floresta",
     "ruRU": "Древесный дух",
-    "zhCN": "橡木智灵"
+    "zhCN": "橡木智者"
   },
   {
     "id": 22059,
@@ -29849,7 +29849,7 @@
     "jaJP": "老楢の護り",
     "ptBR": "Sábio da Floresta",
     "ruRU": "Древесный дух",
-    "zhCN": "橡木智灵"
+    "zhCN": "橡木智者"
   },
   {
     "id": 22062,
@@ -30274,7 +30274,7 @@
     "jaJP": "爪撃",
     "ptBR": "Esmagar",
     "ruRU": "Потрошение",
-    "zhCN": "猛槌"
+    "zhCN": "槌击"
   },
   {
     "id": 22087,
@@ -30325,7 +30325,7 @@
     "jaJP": "爪撃",
     "ptBR": "Esmagar",
     "ruRU": "Потрошение",
-    "zhCN": "猛槌"
+    "zhCN": "槌击"
   },
   {
     "id": 22090,
@@ -30546,7 +30546,7 @@
     "jaJP": "ダイアウルフ召喚",
     "ptBR": "Invocar Lobo Atroz",
     "ruRU": "Лютый волк",
-    "zhCN": "召唤狂狼"
+    "zhCN": "召唤恐狼"
   },
   {
     "id": 22103,
@@ -30563,7 +30563,7 @@
     "jaJP": "飢えた凶暴な狼を召喚する",
     "ptBR": "evoca um lobo enfurecido",
     "ruRU": "Призывает разъяренного волка.",
-    "zhCN": "召唤一只被激怒的狼"
+    "zhCN": "召喚狂怒的恐狼"
   },
   {
     "id": 22104,
@@ -30597,7 +30597,7 @@
     "jaJP": "ダイアウルフ召喚",
     "ptBR": "Ev. Lobo Atroz",
     "ruRU": "Лютый волк",
-    "zhCN": "召唤狂狼"
+    "zhCN": "召唤恐狼"
   },
   {
     "id": 22106,
@@ -30614,7 +30614,7 @@
     "jaJP": "狂犬病",
     "ptBR": "Raiva",
     "ruRU": "Бешенство",
-    "zhCN": "狂犬"
+    "zhCN": "狂犬撕咬"
   },
   {
     "id": 22107,
@@ -30665,7 +30665,7 @@
     "jaJP": "狂犬病",
     "ptBR": "Raiva",
     "ruRU": "Бешенство",
-    "zhCN": "狂犬"
+    "zhCN": "狂犬撕咬"
   },
   {
     "id": 22110,
@@ -30750,7 +30750,7 @@
     "jaJP": "旋風",
     "ptBR": "Ciclone",
     "ruRU": "Смерч",
-    "zhCN": "小旋风"
+    "zhCN": "旋风术"
   },
   {
     "id": 22115,
@@ -30801,7 +30801,7 @@
     "jaJP": "旋風",
     "ptBR": "Ciclone",
     "ruRU": "Смерч",
-    "zhCN": "小旋风"
+    "zhCN": "旋风术"
   },
   {
     "id": 22118,
@@ -30886,7 +30886,7 @@
     "jaJP": "飢餓",
     "ptBR": "Fome",
     "ruRU": "Голод",
-    "zhCN": "饥饿"
+    "zhCN": "饥饿撕咬"
   },
   {
     "id": 22123,
@@ -30937,7 +30937,7 @@
     "jaJP": "飢餓",
     "ptBR": "Fome",
     "ruRU": "Голод",
-    "zhCN": "饥饿"
+    "zhCN": "饥饿撕咬"
   },
   {
     "id": 22126,
@@ -31022,7 +31022,7 @@
     "jaJP": "噴火",
     "ptBR": "Vulcão",
     "ruRU": "Вулкан",
-    "zhCN": "火山爆"
+    "zhCN": "火山喷发"
   },
   {
     "id": 22131,
@@ -31073,7 +31073,7 @@
     "jaJP": "噴火",
     "ptBR": "Vulcão",
     "ruRU": "Вулкан",
-    "zhCN": "火山爆"
+    "zhCN": "火山喷发"
   },
   {
     "id": 22134,
@@ -31158,7 +31158,7 @@
     "jaJP": "荊棘の精霊",
     "ptBR": "Espírito de Farpas",
     "ruRU": "Терновый дух",
-    "zhCN": "棘灵"
+    "zhCN": "荆棘之灵"
   },
   {
     "id": 22139,
@@ -31175,7 +31175,7 @@
     "jaJP": "荊棘の精霊を召喚する",
     "ptBR": "evoca uma mascote espiritual com espinhos",
     "ruRU": "Призывает тернового духа.",
-    "zhCN": "召唤一个棘灵"
+    "zhCN": "召唤一个荆棘之灵"
   },
   {
     "id": 22140,
@@ -31209,7 +31209,7 @@
     "jaJP": "荊棘の精霊",
     "ptBR": "Esp. de Farpas",
     "ruRU": "Терновый дух",
-    "zhCN": "棘灵"
+    "zhCN": "荆棘之灵"
   },
   {
     "id": 22142,
@@ -31294,7 +31294,7 @@
     "jaJP": "猛撃",
     "ptBR": "Fúria",
     "ruRU": "Гнев",
-    "zhCN": "狼怒"
+    "zhCN": "狂暴连击"
   },
   {
     "id": 22147,
@@ -31345,7 +31345,7 @@
     "jaJP": "猛撃",
     "ptBR": "Fúria",
     "ruRU": "Гнев",
-    "zhCN": "狼怒"
+    "zhCN": "狂暴连击"
   },
   {
     "id": 22150,
@@ -31498,7 +31498,7 @@
     "jaJP": "ファイアブラスト",
     "ptBR": "Impacto Ígneo",
     "ruRU": "Огненный взрыв",
-    "zhCN": "投火弹"
+    "zhCN": "火焰炸弹"
   },
   {
     "id": 22159,
@@ -31549,7 +31549,7 @@
     "jaJP": "ファイアブラスト",
     "ptBR": "Impacto Ígneo",
     "ruRU": "Огненный взрыв",
-    "zhCN": "投火弹"
+    "zhCN": "火焰炸弹"
   },
   {
     "id": 22162,
@@ -31634,7 +31634,7 @@
     "jaJP": "サイキックハンマー",
     "ptBR": "Martelo Psíquico",
     "ruRU": "Ментальный молот",
-    "zhCN": "心灵重锤"
+    "zhCN": "心灵之锤"
   },
   {
     "id": 22167,
@@ -31685,7 +31685,7 @@
     "jaJP": "サイキックハンマー",
     "ptBR": "Martelo Psíq.",
     "ruRU": "Ментальный молот",
-    "zhCN": "心灵重锤"
+    "zhCN": "心灵之锤"
   },
   {
     "id": 22170,
@@ -31770,7 +31770,7 @@
     "jaJP": "ドラゴンタロン",
     "ptBR": "Pata do Dragão",
     "ruRU": "Коготь дракона",
-    "zhCN": "龙爪"
+    "zhCN": "龙爪踢"
   },
   {
     "id": 22175,
@@ -31821,7 +31821,7 @@
     "jaJP": "ドラゴンタロン",
     "ptBR": "Pata do Dragão",
     "ruRU": "Коготь дракона",
-    "zhCN": "龙爪"
+    "zhCN": "龙爪踢"
   },
   {
     "id": 22178,
@@ -32110,7 +32110,7 @@
     "jaJP": "ドラゴンクロー",
     "ptBR": "Garra do Dragão",
     "ruRU": "Лапа дракона",
-    "zhCN": "双龙爪"
+    "zhCN": "双龙爪踢"
   },
   {
     "id": 22195,
@@ -32161,7 +32161,7 @@
     "jaJP": "ドラゴンクロー",
     "ptBR": "Garra do Dragão",
     "ruRU": "Лапа дракона",
-    "zhCN": "双龙爪"
+    "zhCN": "双龙爪踢"
   },
   {
     "id": 22198,
@@ -32195,7 +32195,7 @@
     "jaJP": "電撃を放つ罠を設置する",
     "ptBR": "uma armadilha que dispara setas carregadas",
     "ruRU": "Ловушка, выпускающая залпы молний.",
-    "zhCN": "一个放射电荷弹的陷阱"
+    "zhCN": "一个放射电能弹的陷阱"
   },
   {
     "id": 22200,
@@ -32212,7 +32212,7 @@
     "jaJP": "電撃を放つ罠を設置し、\n近くを通った敵を感電させる",
     "ptBR": "uma armadilha que dispara setas carregadas\nem inimigos que passam por perto",
     "ruRU": "Ловушка, выпускающая разряды молний\nв проходящих рядом врагов.",
-    "zhCN": "设下陷阱, 当敌人靠近时\n发射出电荷弹"
+    "zhCN": "设下陷阱, 当敌人靠近时\n发射出电能弹"
   },
   {
     "id": 22201,
@@ -32246,7 +32246,7 @@
     "jaJP": "ファイアセントリー",
     "ptBR": "Onda de Fogo",
     "ruRU": "Огненная волна",
-    "zhCN": "伏地火"
+    "zhCN": "焰痕守卫"
   },
   {
     "id": 22203,
@@ -32297,7 +32297,7 @@
     "jaJP": "ファイアセントリー",
     "ptBR": "Onda de Fogo",
     "ruRU": "Огненная волна",
-    "zhCN": "伏地火"
+    "zhCN": "焰痕守卫"
   },
   {
     "id": 22206,
@@ -32450,7 +32450,7 @@
     "jaJP": "コブラストライク",
     "ptBR": "Golpe da Cobra",
     "ruRU": "Удар кобры",
-    "zhCN": "眼镜蛇攻击"
+    "zhCN": "灵蛇击"
   },
   {
     "id": 22215,
@@ -32501,7 +32501,7 @@
     "jaJP": "コブラストライク",
     "ptBR": "Golpe da Cobra",
     "ruRU": "Удар кобры",
-    "zhCN": "眼镜蛇攻击"
+    "zhCN": "灵蛇击"
   },
   {
     "id": 22218,
@@ -32586,7 +32586,7 @@
     "jaJP": "フェイド",
     "ptBR": "Dissipar",
     "ruRU": "Уход в тень",
-    "zhCN": "消隐"
+    "zhCN": "影散"
   },
   {
     "id": 22223,
@@ -32637,7 +32637,7 @@
     "jaJP": "フェイド",
     "ptBR": "Dissipar",
     "ruRU": "Уход в тень",
-    "zhCN": "消隐"
+    "zhCN": "影散"
   },
   {
     "id": 22226,
@@ -32654,7 +32654,7 @@
     "jaJP": "シャドウウォリアー",
     "ptBR": "Guerreira Sombria",
     "ruRU": "Тень воина",
-    "zhCN": "影身战士"
+    "zhCN": "暗影战士"
   },
   {
     "id": 22227,
@@ -32705,7 +32705,7 @@
     "jaJP": "シャドウウォリアー",
     "ptBR": "Guerr. Sombria",
     "ruRU": "Тень воина",
-    "zhCN": "影身战士"
+    "zhCN": "暗影战士"
   },
   {
     "id": 22230,
@@ -32926,7 +32926,7 @@
     "jaJP": "インフェルノセントリー",
     "ptBR": "Onda Infernal",
     "ruRU": "Инфернальная волна",
-    "zhCN": "狱火尾焰"
+    "zhCN": "狱火守卫"
   },
   {
     "id": 22243,
@@ -32977,7 +32977,7 @@
     "jaJP": "インフェルノセン…",
     "ptBR": "Onda Infernal",
     "ruRU": "Инфернальная волна",
-    "zhCN": "狱火尾焰"
+    "zhCN": "狱火守卫"
   },
   {
     "id": 22246,
@@ -32994,7 +32994,7 @@
     "jaJP": "マインドブラスト",
     "ptBR": "Explosão Psíquica",
     "ruRU": "Ментальный взрыв",
-    "zhCN": "心灵爆震"
+    "zhCN": "心灵震爆"
   },
   {
     "id": 22247,
@@ -33045,7 +33045,7 @@
     "jaJP": "マインドブラスト",
     "ptBR": "Explosão Psíquica",
     "ruRU": "Ментальный взрыв",
-    "zhCN": "心灵爆震"
+    "zhCN": "心灵震爆"
   },
   {
     "id": 22250,
@@ -33266,7 +33266,7 @@
     "jaJP": "ブレイドシールド",
     "ptBR": "Escudo Afiado",
     "ruRU": "Щит из клинков",
-    "zhCN": "刀刃之盾"
+    "zhCN": "利刃之盾"
   },
   {
     "id": 22263,
@@ -33317,7 +33317,7 @@
     "jaJP": "ブレイドシールド",
     "ptBR": "Escudo Afiado",
     "ruRU": "Щит из клинков",
-    "zhCN": "刀刃之盾"
+    "zhCN": "利刃之盾"
   },
   {
     "id": 22266,
@@ -33402,7 +33402,7 @@
     "jaJP": "シャドウマスター",
     "ptBR": "Mestra Sombria",
     "ruRU": "Тень мастера",
-    "zhCN": "影身大师"
+    "zhCN": "暗影宗师"
   },
   {
     "id": 22271,
@@ -33453,7 +33453,7 @@
     "jaJP": "シャドウ・マスター",
     "ptBR": "Mest. Sombria",
     "ruRU": "Тень мастера",
-    "zhCN": "影身大师"
+    "zhCN": "暗影宗师"
   },
   {
     "id": 22274,
@@ -34082,7 +34082,7 @@
     "jaJP": "チャージ 3 - カオスアイスボルトのダメージ: %d - %d",
     "ptBR": "Carga 3 - Dano de Seta de Gelo do Caos: %d-%d",
     "ruRU": "3 заряда – урон от «Ледяной стрелы хаоса»: %d–%d",
-    "zhCN": "2次充能 - 混沌冰霜弹伤害: %d-%d"
+    "zhCN": "2次充能 - 混沌寒冰弹伤害: %d-%d"
   },
   {
     "id": 22311,
@@ -34133,7 +34133,7 @@
     "jaJP": "チャージ 3 - チャージドボルトのダメージ: %d - %d",
     "ptBR": "Carga 3 - Dano de Seta Carregada: %d-%d",
     "ruRU": "3 заряда – урон от залпа молний: %d–%d",
-    "zhCN": "3次充能 - 电荷弹伤害: %d-%d"
+    "zhCN": "3次充能 - 电能弹伤害: %d-%d"
   },
   {
     "id": 22314,
@@ -34320,7 +34320,7 @@
     "jaJP": "老楢の護り",
     "ptBR": "Sábio da Floresta",
     "ruRU": "Древесный дух",
-    "zhCN": "橡木智灵"
+    "zhCN": "橡木智者"
   },
   {
     "id": 22465,
@@ -34354,7 +34354,7 @@
     "jaJP": "荊棘の精霊",
     "ptBR": "Espírito de Farpas",
     "ruRU": "Терновый дух",
-    "zhCN": "棘灵"
+    "zhCN": "荆棘之灵"
   },
   {
     "id": 22467,
@@ -34371,7 +34371,7 @@
     "jaJP": "シャドウウォリアー",
     "ptBR": "Guerreira Sombria",
     "ruRU": "Тень воина",
-    "zhCN": "影身战士"
+    "zhCN": "暗影战士"
   },
   {
     "id": 22468,
@@ -34405,7 +34405,7 @@
     "jaJP": "シャドウマスター",
     "ptBR": "Mestra Sombria",
     "ruRU": "Тень мастера",
-    "zhCN": "影身大师"
+    "zhCN": "暗影宗师"
   },
   {
     "id": 22471,
@@ -34422,7 +34422,7 @@
     "jaJP": "ファイアセントリー",
     "ptBR": "Onda de Fogo",
     "ruRU": "Огненная волна",
-    "zhCN": "伏地火"
+    "zhCN": "焰痕守卫"
   },
   {
     "id": 22751,
@@ -34558,7 +34558,7 @@
     "jaJP": "ボルトを%d本発射",
     "ptBR": "Dispara %d setas",
     "ruRU": "Зарядов: %d",
-    "zhCN": "释放出%d枚电荷"
+    "zhCN": "释放出%d枚"
   },
   {
     "id": 23016,
@@ -35561,7 +35561,7 @@
     "jaJP": "ブレイズの効果時間: %d秒",
     "ptBR": "Duração de Incêndio: %d segundos",
     "ruRU": "Время действия «Огненного следа»: %d сек.",
-    "zhCN": "足跟火持续时间: %d 秒"
+    "zhCN": "炽烈之径持续时间: %d 秒"
   },
   {
     "id": 27161,

@@ -31,7 +31,7 @@
     "jaJP": "Dangerous",
     "ptBR": "Dangerous",
     "ruRU": "Dangerous",
-    "zhCN": "致命"
+    "zhCN": "危险"
   },
   {
     "id": 1825,
@@ -235,7 +235,7 @@
     "jaJP": "Wormsteel",
     "ptBR": "Wormsteel",
     "ruRU": "Wormsteel",
-    "zhCN": "[MAX:防御36]\n蛆虫头骨"
+    "zhCN": "[MAX:防御36]\n温暖骷髅"
   },
   {
     "id": 2772,
@@ -269,7 +269,7 @@
     "jaJP": "Gremlin",
     "ptBR": "Gremlin",
     "ruRU": "Gremlin",
-    "zhCN": "鬼娃"
+    "zhCN": "小妖"
   },
   {
     "id": 2906,
@@ -286,7 +286,7 @@
     "jaJP": "Undead Gremlin",
     "ptBR": "Undead Gremlin",
     "ruRU": "Undead Gremlin",
-    "zhCN": "亡灵鬼娃"
+    "zhCN": "亡灵小妖"
   },
   {
     "id": 2913,
@@ -422,7 +422,7 @@
     "jaJP": "Gremlin Shaman",
     "ptBR": "Gremlin Shaman",
     "ruRU": "Gremlin Shaman",
-    "zhCN": "鬼娃萨满"
+    "zhCN": "小妖萨满"
   },
   {
     "id": 3107,
@@ -473,7 +473,7 @@
     "jaJP": "Raises Gremlins",
     "ptBR": "Raises Gremlins",
     "ruRU": "Raises Gremlins",
-    "zhCN": "复活鬼娃"
+    "zhCN": "复活小妖"
   },
   {
     "id": 3195,
@@ -490,7 +490,7 @@
     "jaJP": "Raises Gremlins",
     "ptBR": "Raises Gremlins",
     "ruRU": "Raises Gremlins",
-    "zhCN": "复活鬼娃"
+    "zhCN": "复活小妖"
   },
   {
     "id": 3241,
@@ -1459,7 +1459,7 @@
     "jaJP": "Gremlin Trophy",
     "ptBR": "Gremlin Trophy",
     "ruRU": "Gremlin Trophy",
-    "zhCN": "鬼娃法器|扩轻"
+    "zhCN": "物神印記|扩轻"
   },
   {
     "id": 20421,
@@ -1476,7 +1476,7 @@
     "jaJP": "Minion Head",
     "ptBR": "Minion Head",
     "ruRU": "Minion Head",
-    "zhCN": "爪牙颅骨|精轻"
+    "zhCN": "随侍之骨|精轻"
   },
   {
     "id": 20422,
@@ -1493,7 +1493,7 @@
     "jaJP": "Hellspawn Head",
     "ptBR": "Hellspawn Head",
     "ruRU": "Hellspawn Head",
-    "zhCN": "地狱魔颅骨|精轻"
+    "zhCN": "地狱爪牙之骨|精轻"
   },
   {
     "id": 20423,
@@ -1510,7 +1510,7 @@
     "jaJP": "Overseer Head",
     "ptBR": "Overseer Head",
     "ruRU": "Overseer Head",
-    "zhCN": "督军颅骨|精轻"
+    "zhCN": "监视者之骨|精轻"
   },
   {
     "id": 20424,
@@ -1527,7 +1527,7 @@
     "jaJP": "Succubus Head",
     "ptBR": "Succubus Head",
     "ruRU": "Succubus Head",
-    "zhCN": "魅魔颅骨|精轻"
+    "zhCN": "女妖之骨|精轻"
   },
   {
     "id": 20425,
@@ -1544,7 +1544,7 @@
     "jaJP": "Evil Lord Head",
     "ptBR": "Evil Lord Head",
     "ruRU": "Evil Lord Head",
-    "zhCN": "血王颅骨|精轻"
+    "zhCN": "血王之骨|精轻"
   },
   {
     "id": 21137,
@@ -1578,7 +1578,7 @@
     "jaJP": "Soul Collector",
     "ptBR": "Soul Collector",
     "ruRU": "Soul Collector",
-    "zhCN": "骷髅收集者"
+    "zhCN": "灵魂收集者"
   },
   {
     "id": 21488,
